@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hamad Malimbasao | Virtual Assistant</title>
+<style>
+body{font-family:Arial, sans-serif;margin:0;background:#f7f7f7;color:#333}
+header{background:#222;color:#fff;padding:40px 20px;text-align:center}
+nav{background:#444;padding:10px;text-align:center}
+nav a{color:#fff;margin:0 15px;text-decoration:none;font-weight:bold}
+section{padding:40px 20px;max-width:900px;margin:auto}
+h2{margin-top:0}
+.card{background:#fff;padding:20px;margin:15px 0;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,0.1)}
+footer{background:#222;color:#fff;text-align:center;padding:20px;margin-top:40px}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Hamad Martin Malimbasao</h1>
+<p>Virtual Assistant | Administrative Support | Customer Support</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#services">Services</a>
+<a href="#case">Case Studies</a>
+<a href="#tools">Tools</a>
+<a href="#experience">Experience</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+<h2>About Me</h2>
+<div class="card">
+<p>I am a Virtual Assistant with a background in customer service and administrative support. I help businesses stay organized through email management, calendar scheduling, accurate data entry, and professional client communication.</p>
+</div>
+</section>
+
+<section id="services">
+<h2>Services</h2>
+<div class="card">Administrative Support – inbox management, scheduling, document organization</div>
+<div class="card">Customer Support – responding to client inquiries and follow-ups</div>
+<div class="card">Lead Tracking – organizing contact lists and updating lead status</div>
+<div class="card">Data Entry – maintaining accurate spreadsheets and records</div>
+</section>
+
+<section id="case">
+<h2>Case Studies</h2>
+<div class="card">
+<strong>Inbox Management:</strong> Organized email folders, created response templates, and tracked priority messages for faster response times.
+</div>
+<div class="card">
+<strong>Customer Follow-ups:</strong> Monitored delayed orders, sent updates to customers, and followed up until issues were resolved.
+</div>
+<div class="card">
+<strong>Lead List Cleanup:</strong> Cleaned and structured a messy contact list, removed duplicates, and created a clear status tracking system.
+</div>
+<div class="card">
+<strong>Calendar Management:</strong> Organized meeting schedules, added time buffers, and confirmed appointments with attendees.
+</div>
+</section>
+
+<section id="tools">
+<h2>Tools</h2>
+<div class="card">Google Workspace</div>
+<div class="card">Google Sheets</div>
+<div class="card">Google Calendar</div>
+<div class="card">Canva</div>
+<div class="card">Zoom</div>
+</section>
+
+<section id="experience">
+<h2>Work Experience</h2>
+<div class="card">
+<strong>Account Associate – VXI Global Solutions</strong><br>
+Handled inbound calls, resolved customer concerns, and ensured high customer satisfaction.
+</div>
+<div class="card">
+<strong>Virtual Assistant</strong><br>
+Managed emails, handled data entry tasks, organized documents, and assisted with scheduling.
+</div>
+<div class="card">
+<strong>Internet Cafe Attendant – INXOMNIA Gaming Lounge</strong><br>
+Assisted customers, maintained equipment, and handled payments.
+</div>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<div class="card">
+<p>Email: maditangon33@gmail.com</p>
+<p>Phone: 09124873000</p>
+<p>Available for Virtual Assistant opportunities.</p>
+</div>
+</section>
+
+<footer>
+<p>© 2026 Hamad Malimbasao</p>
+</footer>
+
+</body>
+</html>
